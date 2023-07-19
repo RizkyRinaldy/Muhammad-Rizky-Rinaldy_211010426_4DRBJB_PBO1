@@ -4,7 +4,7 @@ Proyek ini adalah contoh sederhana aplikasi pengolahan data mahasiswa menggunaka
 
 ## Deskripsi
 
-Aplikasi ini menerima input berupa nama dan NPM mahasiswa, dan memberikan output berupa informasi detail dari NIK tersebut seperti Tempat Lahir, Tanggal Lahir, Bulan Lahir, Tahun Lahir dan Urutan Keluarga.
+Aplikasi ini menerima input berupa NIK, Nama dan Alamat, dan memberikan output berupa informasi detail dari NIK tersebut seperti Tempat Lahir, Tanggal Lahir, Bulan Lahir, Tahun Lahir dan Urutan Keluarga.
 
 Aplikasi ini mengimplementasikan beberapa konsep penting dalam pemrograman berorientasi objek (OOP) seperti Class, Object, Atribut, Method Constructor, Method Mutator, Method Accessor, Encapsulation, Inheritance, Overloading, Overriding, Seleksi, Perulangan, IO Sederhana, Array, dan Error Handling.
 
